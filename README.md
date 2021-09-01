@@ -1,0 +1,2 @@
+# RustLab
+rust... rust.. baby
